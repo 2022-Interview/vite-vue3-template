@@ -8,6 +8,7 @@
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+  <router-view></router-view>
 </template>
 
 <script setup lang="ts">
